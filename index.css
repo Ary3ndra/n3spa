@@ -1,0 +1,39 @@
+.imag {
+    background-image: url("indexpic.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.header {
+    padding: 1px;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    background: darkblue;
+    color: white;
+    font-size: 18px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topnav a {
+    float: left !important;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 12px 14px !important;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.material-icons.md {
+    padding-bottom: 0%;
+}
